@@ -17,9 +17,9 @@ samples, guidance on mobile development, and a full API reference.
 
 Features:
 
-User Authentication: Secure user authentication and authorization using Firebase Authentication.
-Realtime Database: Firebase Realtime Database integration for instant updates on product availability, orders, and user activities.
-Product Management: Administrators can add, edit, and delete products, including details like name, description, price, and images.
-Cart Functionality: Users can add products to their cart, view cart items, and proceed to checkout for seamless shopping experience.
-Order Management: Administrators have access to a dashboard to view and manage orders, including order status updates and order history.
-Categories and Filters: Products can be categorized and filtered for easier navigation and discovery.
+-User Authentication: Secure user authentication and authorization using Firebase Authentication.
+-Realtime Database: Firebase Realtime Database integration for instant updates on product availability, orders, and user activities.
+-Product Management: Administrators can add, edit, and delete products, including details like name, description, price, and images.
+-Cart Functionality: Users can add products to their cart, view cart items, and proceed to checkout for seamless shopping experience.
+-Order Management: Administrators have access to a dashboard to view and manage orders, including order status updates and order history.
+-Categories and Filters: Products can be categorized and filtered for easier navigation and discovery.
